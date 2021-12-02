@@ -1,7 +1,7 @@
 # My take on this problem
 # Author: Sirage El-Jawhari
 
-# O(n) time complexity where n is the length of the array | O(n) space complexity because the dictionary must be added to and updated.
+# O(n^2) time complexity where n is the length of the array and the maximum value must be found at the end, which is another loop | O(k) space complexity where k is the number of keys (teams) competing in the competition.
 
 def tournamentWinner(competitions, results):
 
