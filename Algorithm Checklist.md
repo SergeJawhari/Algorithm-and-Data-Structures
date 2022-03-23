@@ -1,5 +1,5 @@
 # GROKKING PATTERNS
-
+Thanks to GitHub User: tykurtz
 ## Pattern: Sliding Window
 
 - [ ] https://leetcode.com/problems/maximum-subarray/ # Close enough
