@@ -3,7 +3,7 @@ Thanks to GitHub User: tykurtz
 ## Pattern: Sliding Window
 
 - [x] https://leetcode.com/problems/maximum-subarray/ # Close enough
-    - [ ] follow up on 3/9/2022?
+    - [ ] Successful follow up on 3/9/2022?
 - [ ] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [ ] https://leetcode.com/problems/fruit-into-baskets/
