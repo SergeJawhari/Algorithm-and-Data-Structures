@@ -4,7 +4,7 @@ Thanks to GitHub User: tykurtz
 
 Checklist: 1st is for study, 2nd is for the follow up
 
-- [ ][ ] https://leetcode.com/problems/maximum-subarray/ # Close enough
+- [ ] [ ] https://leetcode.com/problems/maximum-subarray/ # Close enough
 - [ ][ ] https://leetcode.com/problems/minimum-size-subarray-sum/
 - [ ][ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [ ][ ] https://leetcode.com/problems/fruit-into-baskets/
