@@ -2,6 +2,7 @@
 Thanks to GitHub User: tykurtz
 ## Pattern: Sliding Window
 
+<<<<<<< HEAD
 Checklist: 1st is for study, 2nd is for the follow up
 
 - [ ]  [ ] https://leetcode.com/problems/maximum-subarray/ # Close enough
@@ -29,6 +30,33 @@ Checklist: 1st is for study, 2nd is for the follow up
 - [ ][ ] https://leetcode.com/problems/4sum/
 - [ ][ ] https://leetcode.com/problems/backspace-string-compare/
 - [ ][ ] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+=======
+- [x] https://leetcode.com/problems/maximum-subarray/ # Close enough
+- [x] https://leetcode.com/problems/minimum-size-subarray-sum/
+- [x] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
+- [x] https://leetcode.com/problems/fruit-into-baskets/
+- [x] https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- [x] https://leetcode.com/problems/longest-repeating-character-replacement/
+- [x] https://leetcode.com/problems/max-consecutive-ones-iii/
+- [x] https://leetcode.com/problems/permutation-in-string/
+- [x] https://leetcode.com/problems/find-all-anagrams-in-a-string/
+- [x] https://leetcode.com/problems/minimum-window-substring/
+- [x] https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+
+## Pattern: Two Pointers
+
+- [x] https://leetcode.com/problems/two-sum/
+- [x] https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+- [x] https://leetcode.com/problems/squares-of-a-sorted-array/
+- [x] https://leetcode.com/problems/3sum/
+- [x] https://leetcode.com/problems/3sum-closest/
+- [x] https://leetcode.com/problems/3sum-smaller/
+- [x] https://leetcode.com/problems/subarray-product-less-than-k/
+- [x] https://leetcode.com/problems/sort-colors/
+- [x] https://leetcode.com/problems/4sum/
+- [x] https://leetcode.com/problems/backspace-string-compare/
+- [x] https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
+>>>>>>> parent of cc2da31 (updated checklist)
 
 ## Pattern: Fast & Slow pointers
 - [ ][ ] https://leetcode.com/problems/linked-list-cycle/
