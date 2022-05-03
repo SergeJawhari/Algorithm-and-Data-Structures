@@ -6,12 +6,14 @@ Thanks to GitHub User: tykurtz
     - [x] Follow up on 4/11/2022
     - [x] Follow up on 4/18/2022
     - [x] Follow up on 4/25/2022
-    - [ ] Follow up on 5/2/2022
+    - [x] Follow up on 5/2/2022
+    - [ ] Follow up on 5/9/2022
 - [x] https://leetcode.com/problems/minimum-size-subarray-sum/
     - [x] Follow up on 4/12/2022
     - [x] Follow up on 4/19/2022
     - [x] Follow up on 4/26/2022
-    - [ ] Follow up on 5/3/2022
+    - [x] Follow up on 5/3/2022
+    - [ ] Follow up on 5/10/2022
 - [ ] https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/
 - [ ] https://leetcode.com/problems/fruit-into-baskets/
 - [ ] https://leetcode.com/problems/longest-substring-without-repeating-characters/
